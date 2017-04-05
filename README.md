@@ -16,6 +16,7 @@
 ### Lesson 03 (Double check)
 
 ### Lesson 04 (Mutex/Lock and Monitors)
+- ```synchronized``` methods
 - Java objects as locks
 - ```wait(), notify(), notifyAll()```
 
