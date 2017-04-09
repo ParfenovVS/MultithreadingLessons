@@ -19,6 +19,8 @@
 - ```wait(), notify(), notifyAll()```
 
 ### Lesson 04 (Volatile)
+- ```volatile``` keyword
+- ```long``` and ```double``` types problems
 
 ### Lesson 05 (Atomics)
 - Atomic primitives
