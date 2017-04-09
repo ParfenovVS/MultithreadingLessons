@@ -11,6 +11,7 @@
     <modules>
         <module>01_Threads</module>
         <module>02_Synchronization</module>
+        <module>03_DoubleCheck</module>
     </modules>
 
     <build>

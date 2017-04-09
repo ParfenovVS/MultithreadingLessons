@@ -13,12 +13,12 @@
 - ```synchronized``` keyword
 - Deadlock
 
-### Lesson 03 (Double check)
-
-### Lesson 04 (Mutex/Lock and Monitors)
+### Lesson 03 (Mutex/Lock and Monitors)
+- Java objects as locks and monitors
 - ```synchronized``` methods
-- Java objects as locks
 - ```wait(), notify(), notifyAll()```
+
+### Lesson 04 (Volatile)
 
 ### Lesson 05 (Atomics)
 - Atomic primitives
@@ -26,8 +26,7 @@
 - Atomic references
 - Atomic operations
 
-### Lesson 06 (Volatile and CAS-operations)
-- ```volatile``` keyword
+### Lesson 06 (CAS-operations)
 - Compare-And-Set
 - Compare-And-Swap
 
